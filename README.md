@@ -13,3 +13,16 @@ You might have to set up credentials for XAMPP and MariaDB too, I haven't instal
 
 Starting: [AddCustomer](http://localhost/JamesonDaniel/addCustomer/addCustomer.php)
 Although, as I said, the pages don't connect right and cannot be used for their intended purpose.
+
+# Es Muy Importante
+#Database name: daniel -> Password: hkh9J7
+
+## Two possible methods of Deployment
+### Method one
+This method involves using Github to deploy the Elastic Beanstalk application and environments.
+Problem: The Elastic Beanstalk instance fails with the following error:
+Error when building the elastic beanstalk service. It states that "Stack named 'awseb-e-hqk3hp9jsj-stack' aborted operation. Current state: 'CREATE_FAILED' Reason: The following resource(s) failed to create: [AWSEBRDSDBSubnetGroup]."
+
+- The Three ways of Devops.
+- Dark Launching.
+- Infrastructure as code. - Q2.a
