@@ -17,11 +17,14 @@ Although, as I said, the pages don't connect right and cannot be used for their 
 # Es Muy Importante
 #Database name: daniel -> Password: hkh9J7
 
-## Two possible methods of Deployment
-### Method one
-This method involves using Github to deploy the Elastic Beanstalk application and environments.
-Problem: The Elastic Beanstalk instance fails with the following error:
-Error when building the elastic beanstalk service. It states that "Stack named 'awseb-e-hqk3hp9jsj-stack' aborted operation. Current state: 'CREATE_FAILED' Reason: The following resource(s) failed to create: [AWSEBRDSDBSubnetGroup]."
+## Project Itinerary
+Suggestions
+* Research best practices for migrating app to cloud.
+* Look for articles and Research papaers searching for the "Strangulation design pattern".
+* API behind gateway. Make use of AWS VPC, etc. Activity on AWS.
+* Maybe deploy with Elastic Beanstalk. Activity on AWS for this.
+* RDS (Relational DataBase Service)
+* Provisioning All resources.
 
 - The Three ways of Devops.
 - Dark Launching.

@@ -1,8 +1,10 @@
 .vs
 vendor/
-secrets.txt
+secrets.md
 jesusfuckingchrist.md
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+minimize_rds_costs.md
+.log
